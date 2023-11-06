@@ -61,6 +61,8 @@ const styles = StyleSheet.create({
     position: 'absolute',
     right: -12,
     bottom: 14,
+    borderRadius: 50,
+    overflow: 'hidden',
   },
 });
 
